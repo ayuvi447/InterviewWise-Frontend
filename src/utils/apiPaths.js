@@ -1,5 +1,5 @@
 // api.js (ya jaha BASE_URL define hai)
-export const BASE_URL = "https://interview-wise-backend-6tqj.vercel.app";
+export const BASE_URL = "https://interviewwise-backend-2.onrender.com";
 
 
 export const API_PATHS = {
